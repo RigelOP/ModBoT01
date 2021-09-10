@@ -1,0 +1,48 @@
+{
+   "token": "ODgyMTg1MDE1MTAwODUwMjE3.YS3s0Q.FAmwBWi9K694RAD0Cb04jKgiQLA",
+   "prefix": "!",
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "localhost",
+            "port": 2333,
+            "password": "youshallnotpass"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "ad6049a0e45b4d9d85ff580902b7eac3",
+      "clientID": "4e5ce8a7159d44159ae55d4b147cb82c"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "progressbar_emoji": "🔶",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 60000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true,
+      "serverDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "COMMENT": "my suggestion is to use ksoft_api on true and paste in the api key u can sign up, until u get the key use lyrics_finder which is way weaker but better the nothing",
+      "ksoft_api": {
+         "use_this_instead": false,
+         "api_key": ""
+      }
+   },
+   "ownerIDS": [
+      "535119428678057984"
+   ],
+   "status": {
+      "text": "-Help",
+      "type": "PLAYING",
+      "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
+      "url": "https://twitch.tv/milratodiscordbot"
+   }
+}
